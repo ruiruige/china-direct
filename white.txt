@@ -88,3 +88,6 @@ weibo.cn
 cnblogs.com
 xjtu.edu.cn
 qidian.com
+csdn.com
+w3school.com
+renren.com
