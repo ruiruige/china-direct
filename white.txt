@@ -91,3 +91,5 @@ qidian.com
 csdn.com
 w3school.com
 renren.com
+sinaimg.cn
+sina.cn
