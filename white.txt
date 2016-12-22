@@ -76,3 +76,4 @@ csdnimg.cn
 51cto.com
 nsfocus.net
 chinaunix.net
+v2ex.com
