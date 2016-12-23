@@ -77,3 +77,4 @@ csdnimg.cn
 nsfocus.net
 chinaunix.net
 v2ex.com
+qiniu.com
