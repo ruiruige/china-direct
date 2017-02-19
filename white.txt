@@ -77,4 +77,6 @@ csdnimg.cn
 nsfocus.net
 chinaunix.net
 v2ex.com
+upyun.com
+upaiyun.com
 qiniu.com
