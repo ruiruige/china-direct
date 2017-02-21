@@ -40,6 +40,7 @@ alicdn.com
 sina.com
 sina.com.cn
 baidu.com
+bdstatic.com
 bilibili.com
 bilibili.tv
 acfun.tv
