@@ -81,3 +81,4 @@ v2ex.com
 upyun.com
 upaiyun.com
 qiniu.com
+icbc.com.cn
