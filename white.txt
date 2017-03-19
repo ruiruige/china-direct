@@ -84,3 +84,5 @@ qiniu.com
 icbc.com.cn
 jx3.xoyo.com
 sogou.com
+miaopai.com
+ykimg.com
