@@ -41,6 +41,7 @@ sina.com
 sina.com.cn
 baidu.com
 bdstatic.com
+bdimg.com
 bilibili.com
 bilibili.tv
 acfun.tv
@@ -88,4 +89,15 @@ miaopai.com
 ykimg.com
 mmstat.com
 360.cn
-qtimg.com
+360safe.com
+gtimg.com
+gtimg.cn
+qpic.cn
+oray.net
+
+www.dota2.com
+steampowered.com
+steamcommunity-a.akamaihd.net
+
+
+
