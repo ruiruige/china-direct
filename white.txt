@@ -94,6 +94,7 @@ gtimg.com
 gtimg.cn
 qpic.cn
 oray.net
+alibench.com
 
 www.dota2.com
 steampowered.com
