@@ -103,6 +103,7 @@ www.dota2.com
 steampowered.com
 steamcommunity-a.akamaihd.net
 steamstatic.com
+steamcontent.com
 
 kuwo.cn
 
