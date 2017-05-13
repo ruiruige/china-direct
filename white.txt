@@ -107,9 +107,11 @@ steamstatic.com
 kuwo.cn
 
 cn
+com
 
 kingsoft.com
 derzh.com
 
 ele.me
 elemecdn.com
+download.windowsupdate.com
