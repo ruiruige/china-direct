@@ -107,7 +107,7 @@ steamstatic.com
 kuwo.cn
 
 cn
-
+cdn
 
 kingsoft.com
 derzh.com
