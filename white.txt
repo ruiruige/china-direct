@@ -108,6 +108,10 @@ kuwo.cn
 
 cn
 com
+org
+net
+tv
+biz
 
 kingsoft.com
 derzh.com
