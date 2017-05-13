@@ -115,3 +115,4 @@ derzh.com
 ele.me
 elemecdn.com
 download.windowsupdate.com
+checkip.dyndns.org
