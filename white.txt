@@ -117,3 +117,4 @@ ele.me
 elemecdn.com
 download.windowsupdate.com
 checkip.dyndns.org
+360tpcdn.com
