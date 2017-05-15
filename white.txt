@@ -118,3 +118,4 @@ elemecdn.com
 download.windowsupdate.com
 checkip.dyndns.org
 360tpcdn.com
+alog.umeng.com
