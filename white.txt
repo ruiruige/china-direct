@@ -16,6 +16,7 @@ internal.check.duokanbox.com
 cntv.cn
 kugou.com
 163.com
+jd.com
 ppstream.com
 live.g3proxy.lecloud.com
 live.tv.sohu.com
