@@ -102,7 +102,6 @@ cloudacc-inc.com
 
 www.dota2.com
 steampowered.com
-steamcommunity-a.akamaihd.net
 steamstatic.com
 steamcontent.com
 
@@ -120,5 +119,3 @@ download.windowsupdate.com
 checkip.dyndns.org
 360tpcdn.com
 alog.umeng.com
-
-steam
